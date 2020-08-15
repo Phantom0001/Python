@@ -1,7 +1,7 @@
 # Python
 Python programs
 
-Organized with "#_". 
+Organized with "#_"
 1.
 2.
 3.
